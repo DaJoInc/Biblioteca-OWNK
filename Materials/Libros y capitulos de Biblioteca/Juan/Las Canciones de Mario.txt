@@ -1,0 +1,9 @@
+
+Indice
+Las Canciones de Mario
+El juego del Usuario __ Ruta de carpeta: C:\Users\The Young Knight\Desktop\Biblioteca\Libros y capitulos de Biblioteca\Cosas Varias\Cien Años de Sol.txt
+En una fria tarde de invierno el mosquetero se levanto con su capa y sombrero. __ Linea de Subtitulo: 3
+Siendo las 11pm el mosquetero ceno apurado. __ Linea de Subtitulo: 5
+Titulo del Capitulo __ Ruta de carpeta: C:\Users\The Young Knight\Desktop\Biblioteca\Libros y capitulos de Biblioteca\Cosas Varias\OtroCapitulo.txt
+Subtitulo inicial de capitulo __ Linea de Subtitulo: 3
+Subtitulo2 __ Linea de Subtitulo: 5

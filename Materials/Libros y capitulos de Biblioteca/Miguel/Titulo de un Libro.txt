@@ -1,0 +1,11 @@
+
+Indice
+Titulo de un Libro
+nombre de capitulo __ Ruta de carpeta: C:\Users\The Young Knight\Desktop\Biblioteca\Libros y capitulos de Biblioteca\Fantasticos\Incubus\El dormilon.txt
+Quien somnoliento se recupera es Carlos, dije yo __ Linea de Subtitulo: 3
+Cual amigo cruel insistio "Son mis medias onces chaval" __ Linea de Subtitulo: 5
+Entonces pregunto con severidad en su mirada "¿Es a esto a lo que te traje al mundo?" __ Linea de Subtitulo: 7
+nombre de capitulo2 __ Ruta de carpeta: C:\Users\The Young Knight\Desktop\Biblioteca\Libros y capitulos de Biblioteca\Fantasticos\Incubus\Un Capitulo Más.txt
+Quien somnoliento se recupera es Carlos, dije yo __ Linea de Subtitulo: 3
+Cual amigo cruel insistio "Son mis medias onces chaval" __ Linea de Subtitulo: 5
+Entonces pregunto con severidad en su mirada "¿Es a esto a lo que te traje al mundo?" __ Linea de Subtitulo: 7
